@@ -41,7 +41,7 @@ The following are specifically excluded from the scope of the program:
 - Missing best practices (we require evidence of a security vulnerability)
 - Social engineering (e.g., phishing, vishing, smishing) attacks
 - Clickjacking
-- UGC content unless there are demonstrable impacts beyond the content itself
+- User generated content unless there are demonstrable impacts beyond the content itself
 
 Please note, third-party services, including any other service not explicitly owned and controlled by Manticore Games, Inc., are excluded from this program.
 
