@@ -24,7 +24,8 @@ The Manticore Games Bug Bounty Program covers our websites, game client, and API
 
 - The `coregames.com` domain
 - The `manticoregames.com` domain
-- The `manticoreplatform.com` domain
+- The `playharmony.ai` domain
+- The `manticoreusercontent.com` domain
 - The Core launcher and game client
 - Our public API endpoints at `https://coregames.com/api/*`
 
