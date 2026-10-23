@@ -22,12 +22,9 @@ Email reports to [security@manticoregames.com](mailto:security@manticoregames.co
 
 The Manticore Games Bug Bounty Program covers our websites, game client, and API endpoints. Specifically, this includes:
 
-- The `coregames.com` domain
 - The `manticoregames.com` domain
 - The `playharmony.ai` domain
 - The `manticoreusercontent.com` domain
-- The Core launcher and game client
-- Our public API endpoints at `https://coregames.com/api/*`
 
 The following are specifically excluded from the scope of the program:
 
