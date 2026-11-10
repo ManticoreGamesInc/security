@@ -1,5 +1,8 @@
 # Manticore Games Bug Bounty Program
 
+> [!IMPORTANT]
+> The Bug Bounty Program will become active once Harmony is out of Early Access. We still welcome responsible reports of security vulnerabilities at [security@manticoregames.com](mailto:security@manticoregames.com).
+
 ## Introduction
 
 Manticore Games is committed to ensuring the highest security and data protection standards for our players and creators. As part of this effort, we invite the security community to test and identify any vulnerabilities in our systems through our Bug Bounty Program.
